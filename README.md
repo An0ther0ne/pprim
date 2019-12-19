@@ -1,11 +1,7 @@
 ## Proper Primitives
-This is another plugin for Google SketchUP
+This is another plugin for Google SketchUP which help you to make in one click a three-dimensional propper primitives like this: 
 
-![Skethup plugin](https://raw.githubusercontent.com/An0ther0ne/pprim/master/sshot1.png)
-
-which help you to make in one click a three-dimensional propper primitives like this: 
-
-![Primitives](https://raw.githubusercontent.com/An0ther0ne/pprim/master/primitivs.png)
+![Skethup plugin](https://raw.githubusercontent.com/An0ther0ne/pprim/master/sshot.png)
 
 ## INSTALATION
 
